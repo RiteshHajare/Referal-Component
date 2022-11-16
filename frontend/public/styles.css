@@ -1,0 +1,45 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    max-width: 25rem !important;
+    margin-bottom: 2rem;
+}
+
+.form {
+    margin: 3rem 0;
+}
+
+.btn {
+    margin-left: 25%;
+}
+
+.user {
+    background-color: aquamarine;
+    width: 15rem;
+    text-align: center;
+    padding-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.pay {
+    margin-right: 6rem !important;
+    width: 12rem !important;
+}
+
+.whole {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.body input {
+    margin-top: 1rem;
+}
+
+.message {
+    margin-top: 2rem;
+}
